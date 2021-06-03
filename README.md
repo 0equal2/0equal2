@@ -4,7 +4,7 @@
 
 
 
-#### Language / Tools
+## Language / Tools
 
 ![](https://img.shields.io/badge/-Python-%233776AB) ![](https://img.shields.io/badge/-Java-%23007396) ![](https://img.shields.io/badge/-MySQL-%234479A1) ![](https://img.shields.io/badge/-C-%23A8B9CC)
 
@@ -12,7 +12,7 @@
 
 
 
-#### Contact
+## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duddms0115@gmail.com)](mailto:duddms0115@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&link=https://0equal2.tistory.com/)](https://0equal2.tistory.com/)
