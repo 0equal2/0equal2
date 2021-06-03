@@ -15,7 +15,7 @@
 #### Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duddms0115@gmail.com)](mailto:duddms0115@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/-Tech blog-green?style=flat-square&link=https://0equal2.tistory.com/)](https://0equal2.tistory.com/)
+[![Blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&link=https://0equal2.tistory.com/)](https://0equal2.tistory.com/)
 
 
 <!---
