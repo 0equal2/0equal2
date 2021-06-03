@@ -6,9 +6,9 @@
 
 #### Language / Tools
 
-![](https://img.shields.io/badge/-Python-%233776AB)![](https://img.shields.io/badge/-Java-%23007396)![](https://img.shields.io/badge/-MySQL-%234479A1)![](https://img.shields.io/badge/-C-%23A8B9CC)
+![](https://img.shields.io/badge/-Python-%233776AB) ![](https://img.shields.io/badge/-Java-%23007396) ![](https://img.shields.io/badge/-MySQL-%234479A1) ![](https://img.shields.io/badge/-C-%23A8B9CC)
 
-![](https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626)![](https://img.shields.io/badge/-Hadoop-%23C6002B)![](https://img.shields.io/badge/-Spark-%23E25A1C)
+![](https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626) ![](https://img.shields.io/badge/-Hadoop-%23C6002B)![](https://img.shields.io/badge/-Spark-%23E25A1C)
 
 
 
