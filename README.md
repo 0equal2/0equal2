@@ -14,7 +14,8 @@
 
 #### Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duddms0115@gmail.com)](mailto:duddms0115@gmail.com)[![Gmail Badge](https://img.shields.io/badge/-Tech blog-green?style=flat-square&link=0eqaul2.tistory.com)](0eqaul2.tistory.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duddms0115@gmail.com)](mailto:duddms0115@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/-Tech blog-green?style=flat-square&link=0eqaul2.tistory.com)](0eqaul2.tistory.com)
 
 
 <!---
